@@ -12,10 +12,10 @@ The structure of the questions is as follow:
  
 "Question ID": {
   
-  "sentences": [...],
+   "sentences": [...],
   
-  "full_text": "...",
+   "full_text": "...",
   
-  "short_answers": [...]
+   "short_answers": [...]
   
   }
