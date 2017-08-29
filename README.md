@@ -20,4 +20,4 @@ The structure of the questions is as follow:
   
   }
 
-Q2AD_v1_QuestionsID.json contains the mapping between the questions ID and their string
+Q2AD_v1_QuestionsID.json contains the mapping between the questions' ID and their string
